@@ -85,7 +85,7 @@
         </div>
         <div class="sm:col-span-2">
           <button @click.prevent="submit" type="submit" class="w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-adcash-dark hover:bg-adcash-darker focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-adcash-dark">
-            Yallah Habibi &rarr;
+            Yalla Habibi &rarr;
           </button>
         </div>
       </form>
