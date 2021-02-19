@@ -59,7 +59,7 @@
                 <option>RU</option>
               </select>
             </div>
-            <input v-model="info.phone" type="text" name="phone_number" id="phone_number" autocomplete="tel" class="py-3 px-4 block w-full pl-20 focus:ring-adcash-dark focus:border-adcash-dark border-gray-300 rounded-md" placeholder="+1 (555) 987-6543">
+            <input v-model="info.phone" type="text" name="phone_number" id="phone_number" autocomplete="tel" class="py-3 px-4 block w-full pl-20 focus:ring-adcash-dark focus:border-adcash-dark border-gray-300 rounded-md" placeholder="+234 567 8910">
           </div>
         </div>
         <div class="sm:col-span-2">
