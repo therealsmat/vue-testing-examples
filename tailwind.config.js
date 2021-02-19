@@ -25,6 +25,11 @@ module.exports = {
       blue: colors.blue,
       indigo: colors.indigo,
       purple: colors.violet,
+      adcash: {
+        dark: '#9C226C',
+        darker: '#821F5F',
+        darkest: '#5F164A',
+      },
       pink: colors.pink,
     },
     spacing: {
